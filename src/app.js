@@ -25,7 +25,7 @@ function mostrarMenuPrincipal() {
         rsistema.registroSistema(); 
         break;
       case "3":
-        smonitor.mostrarInformacion(); // o el nombre que exportes
+        smonitor.mostrarInformacion(); 
         break;
       case "4":
         console.log("Saliendo del programa...");
